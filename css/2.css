@@ -4,6 +4,8 @@ h1 {
   
   img {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .pic {
@@ -21,4 +23,8 @@ h1 {
   
   .slides .nxt {
     float:right;
+  }
+
+  .slides .prev {
+    float: left;
   }
